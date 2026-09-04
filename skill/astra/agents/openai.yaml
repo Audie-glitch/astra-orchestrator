@@ -1,0 +1,4 @@
+interface:
+  display_name: "Astra Orchestrator"
+  short_description: "Plan with GPT-6 Astra, execute with Codex agents"
+  default_prompt: "Use $astra to orchestrate this task with the best available sub-agent models."
