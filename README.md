@@ -54,3 +54,9 @@ tests/test_skill.sh
 ## License
 
 MIT. Includes adapted portions of fable-orchestrator; see [LICENSE](LICENSE).
+
+## Related lists
+
+- [awesome-gpt-astra](https://github.com/Audie-glitch/awesome-gpt-astra) — GPT-6 Astra catalog
+- [awesome-claude-fable](https://github.com/Audie-glitch/awesome-claude-fable) — Anthropic Claude Fable catalog
+- Upstream pattern: [codejunkie99/fable-orchestrator](https://github.com/codejunkie99/fable-orchestrator)
